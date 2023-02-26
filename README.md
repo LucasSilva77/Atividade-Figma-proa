@@ -4,8 +4,11 @@ atividade realizada pra entender um pouco mais sobre o figma e protótipos
 
 
 1- Qual era o o propósito inicial do site? 
+
 2- O site propósito mudou ao longo do tempo? 
+
 3- Quais os problemas que esse site tinha quando "novo" e quais têm agora? 
+
 4- Que melhorias você faria nesse site para que ele pudesse ser mais interessante para um público jovem, de periferia, que não está acostumado ao uso de Internet por computadores e não tem interesses por notícias. 
 
 1- O site mostrava o máximo de informações possíveis pro usuário na intenção de ser o mais breve possível com as informações, justamente por isso o design dele deixava a desejar. 
